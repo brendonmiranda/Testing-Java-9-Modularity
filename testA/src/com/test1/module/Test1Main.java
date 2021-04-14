@@ -1,6 +1,6 @@
 package com.test1.module;
 
-import com.test2.module.Test2;
+import com.testB.module.Test2;
 
 public class Test1Main {
 

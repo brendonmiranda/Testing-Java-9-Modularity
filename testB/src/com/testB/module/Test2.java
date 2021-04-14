@@ -1,4 +1,4 @@
-package com.test2.module;
+package com.testB.module;
 
 public class Test2 {
 
